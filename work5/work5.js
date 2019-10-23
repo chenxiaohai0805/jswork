@@ -32,3 +32,4 @@ for (let c=9;c>=1;--c){
 }
 str +="</table>";
 document.getElementById("table3").innerHTML = str;
+//document.body.style.backgroundColor ='blue'
