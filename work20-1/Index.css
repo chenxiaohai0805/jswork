@@ -3,14 +3,12 @@ select{
     height: 150px;
 }
 input[type=button]{
-    width:50px;
+    width: 50px;
 }
-#title{
-    width:40%;
+#title{width: 40%;
     text-align: center;
 }
-#opt{
-    margin: 90px 10px 0
+#opt{margin: 90px 10px 0
 }
 .box{
     width: 80%;
