@@ -15,6 +15,6 @@ input[type=button]{
     margin: 0 auto;
     background-color: #999999;
 }
-.box div{
-    float: left;
+.box div {
+    float: left ;
 }
